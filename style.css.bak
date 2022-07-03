@@ -1,0 +1,85 @@
+*{
+	margin:0;
+	padding:0;
+} 
+#first{
+	
+}
+.rasakhowa{
+	 max-width:1170px;
+	 margin:auto;
+	
+	 
+}    
+.flower{
+	background:green;
+}
+
+.menu{
+	float:center;
+	width:70%;
+}
+.menu ul{
+	
+	
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding-left:20px;
+	padding:20px;
+	
+}
+.menu ul li a{
+	font-size:15px;
+	padding:10px 15px;
+	text-decoration:none;
+	color:red;
+	background:yellow;
+}
+.menu ul li a:hover{
+      background:red;
+	  color:white;
+}	
+.rudel{
+	margin:60px;
+	font-size:20px;
+	padding:100px 0px;
+}
+.rudel h2{
+	text-align:center;
+}
+}
+#second{
+	background:lime;
+}
+#third{
+	background:yellow;
+}
+.para{
+	background:yellow;
+}
+
+.laura{
+	max-width:30%;
+	float:left;
+    background:yellow;
+	text-align:center;
+}
+.laura h2{
+	padding:10px;
+}
+#forth{
+	background:cyan;
+}
+.bari{
+	text-align:center;
+	padding:10px;
+	max-width:20%;
+	color:white;
+	float:left;
+}
+.bari:hover{
+	color:black;
+	
+}

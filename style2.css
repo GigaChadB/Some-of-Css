@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+}
+#first{
+
+}
+.container{
+position: relative;
+}
+.box img{
+ background-size: cover;
+ background-attachment:fixed;
+ position: relative;
+ width: 1520px;
+ height:720px;
+}
+.black{
+position: absolute;
+top: 50%;
+text-align: center;
+left:0;
+right:0;
+font-size: 60px;
+color:red;
+}
+.black ul li{
+    display:inline;
+
+}
+.black ul li a{
+    font-size: 30px;
+text-decoration:none;
+padding:15px 20px;
+float:left-right;
+background: yellow;
+color:red;
+display: inline;     
+}
+.black ul li a:hover{
+background:red;
+color:white;
+
+}
+#second{
+
+}
+.monitor{
+background-image:url(../image/war.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:cover;
+}
+.cpu h1{
+font-size:50px;
+text-align: center;
+color:rgb(83, 9, 255);
+}
+.cpu h2{
+text-align: center;
+color:rgb(6, 97, 97);
+font-size:35px;
+}
+#third{
+width:auto;
+background:rgb(132, 248, 128);
+}
+.raiganj{
+}
+.rasakhowa{
+}
+.rasakhowa h1{
+color:red;
+background-color: aliceblue; 
+text-align:center;
+font-size:60px;
+}
+.rudel{ 
+    text-align:center;
+} 
+.rudel img{
+    background-color: rgb(122, 235, 137);
+}
+.rudel h2{
+    background-color: rgb(101, 204, 245);
+}
+#fourth{
+
+}
+.nontay{
+background-image:url(../image/Nuclear.jpg);
+background-attachment: fixed;
+background-size: cover;
+text-align: center;
+}
+.nontay h1{
+font-size:60px;
+color:red;
+}
+.nontay h2{
+font-size:25px;
+color: rgb(255, 109, 109);
+}
+#fifth{
+    
+}
+.keyboard{
+width: 920px;
+display: inline-block;
+margin-left: auto;
+background:seagreen;
+}
+

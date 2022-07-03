@@ -1,0 +1,94 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+.rahul{
+  height: 120px;
+  background:darkgreen;
+}
+.rahul img{
+  left:0;
+  right:0;
+  text-align:center;
+  display:inline-block;
+  margin-left:170px;
+}
+.rahul h3{
+  font-size:40px;
+  color: beige;
+  display:inline;
+  margin-bottom:30%;
+  margin-left:5px;
+}
+.akash{
+    width: 1080px;
+    height:100px;
+    margin:0 auto;
+    margin-top:30px;
+}
+.akash h1{
+    max-width:60%;
+    display: inline-block;
+    left: auto;
+    font-size:45px;
+    color: darkgreen;
+    margin-left:45px;
+}
+.akash menu{
+  max-width:35%;
+  right:100%;
+  display: inline-block;
+  margin-left:120px;
+}
+.akash menu li{
+     display:inline;
+     padding:2px 3px;
+     background:darkgreen;
+     float:left;
+     margin:2px;
+     list-style:armenian;
+}
+.akash menu li a{
+  text-decoration:none;
+  color:rgb(246, 242, 242);
+}
+.akash menu li a:hover{
+  background: crimson;
+  color: beige;
+}
+.jibananda{
+  width: 1080px;
+  margin:0 auto;
+  background-image:url(../image/cannabis.jpg);
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size:cover;
+  text-align: center;
+  padding-bottom:20px;
+} 
+.jibananda h2{
+  font-size:30px;
+  color: azure;
+}
+.jibananda span{
+   font-size:20px;
+   color: rgb(241, 241, 237);
+   margin-top:20px;
+}
+.jibananda img{
+   margin-top:20px;
+}
+.ankan{
+  background-color: darkgreen;
+  text-align: center;
+  margin-top:100px;
+}
+.ankan h1{
+  font-size:20px;
+  color: beige;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+.ankan img{
+  margin-top: 20px;
+}
